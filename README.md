@@ -463,6 +463,7 @@
 * Adam Tuliper http://www.adamtuliper.com/
 * Addy Osmani https://addyosmani.com/blog/
 * Adrian Colyer https://blog.acolyer.org/
+* Ahmet Murati https://ahmemurati.com/category/computer
 * Alan Storm http://alanstorm.com/
 * Alex Rogozhnikov https://arogozhnikov.github.io/
 * Alex Russell https://infrequently.org/
